@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba de componente ButtonDelete debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <li
+    className="list-group-item"
+  >
+    <p
+      className="text-center pt-3"
+    >
+       
+      1
+      . 
+      aprender react
+       
+    </p>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+    >
+      Borrar
+    </button>
+  </li>
+</Fragment>
+`;
